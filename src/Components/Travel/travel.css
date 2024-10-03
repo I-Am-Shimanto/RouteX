@@ -1,6 +1,0 @@
-.single-card{
-    transition: all linear 0.3s;
-}
-.single-card:hover{
-    transform: scale(1.1);
-}

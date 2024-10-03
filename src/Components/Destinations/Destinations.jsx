@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import { MdKeyboardArrowRight } from "react-icons/md";
 import { FaArrowRight } from "react-icons/fa";
+import CommonHead from '../Common/CommonHead';
 
 
 
@@ -9,7 +10,7 @@ import { FaArrowRight } from "react-icons/fa";
 const Destinations = () => {
   return (
     <>
-        <section className='mb-[85.14px]'>
+        <section className='pb-[85.14px]'>
             <div className="container">
                 <div className="row flex justify-center gap-[56.77px]">
                     <div className='img flex gap-[22px]'>
@@ -28,7 +29,7 @@ const Destinations = () => {
                     <div className="text">
                         <div className="head flex gap-[7.1px] items-center">
                             <img src="images/Frame.png" alt="frame" />
-                            <p className='text-[10px] font-semibold font-jakarta text-brand-color leading-[9.9px]'>Why Choose Us</p>
+                            <CommonHead text={'Why Choose Us'}/>
                         </div>
                         <h2 className='w-[447.04px] text-[35.48px] font-bold font-jakarta text-[#16171A] leading-[42.6px] mt-[7.1px]'>Where Wanderlust Meets <span className='text-brand-color'>Dream Destinations</span>  </h2>
                         <p className='w-[447.04px] text-[11.35px] font-normal font-jakarta text-para_color leading-[21.3px] mt-[13.35px] mb-[24.7px]'>Et purus duis sollicitudin dignissim habitant. Egestas nulla quis venenatis cras sed eu massa Et purus duis sollicitudin dignissim habitant. Egestas nulla quis venenatis cras sed eu massa Et purus duis sollicitudin dignissim habitant. Egestas nulla</p>

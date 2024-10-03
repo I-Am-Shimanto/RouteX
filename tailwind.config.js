@@ -16,7 +16,10 @@ export default {
       }
     },
     container:{
-      center:true
+      center:true,
+      padding:{
+        lg: '40px'
+      }
     }
   },
   plugins: [],

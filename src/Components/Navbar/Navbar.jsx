@@ -7,7 +7,7 @@ import { FaArrowRight } from "react-icons/fa6";
 const Navbar = () => {
   return (
     <>
-        <nav className='mt-[28.37px]'>
+        <nav className='pt-[28.37px]'>
             <div className="container">
                 <div className="row flex justify-between items-center">
                     <div className="logo">

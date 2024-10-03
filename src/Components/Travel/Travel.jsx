@@ -6,7 +6,7 @@ const Travel = () => {
     <>
         <section className='mt-[21.28px] mb-[85.16px]'>
             <div className="container">
-                <div className="row flex justify-between">
+                <div className="row flex justify-evenly">
                     <div className="single-card rounded-[14.19px] border-[1px] border-[#000000] w-[404.47px] pt-[35.49px] pl-[28.38px] pb-[49.52px] hover:bg-[#C4D7FF] hover:scale-105 duration-500">
                         <div className="img  ">
                             <img src="images/travel1.png" alt="travel" />
