@@ -25,7 +25,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <div className="nav-btn">
-                        <button className='flex items-center gap-[7.1px] py-[10.29px] px-[21.29px] bg-second-color rounded-[106px] text-[10px] font-jakarta font-semibold text-white leading-[21px]'>Get An Appointment<FaArrowRight/></button>
+                        <button className='flex items-center gap-[7.1px] py-[10.29px] px-[21.29px] bg-second-color rounded-[106px] text-[10px] font-jakarta font-semibold text-white leading-[21px] hover:scale-[1.05] duration-[0.3s] hover:bg-brand-color'>Get An Appointment<FaArrowRight/></button>
                     </div>
                 </div>
             </div>

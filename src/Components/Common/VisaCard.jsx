@@ -7,7 +7,7 @@ const VisaCard = ({image , heading}) => {
   return (
     <>
         
-        <div className="single-card flex justify-between w-[447.04px] h-[206.49px] rounded-[14.19px] pl-[14.19px] pr-[28.38px] border-[1px] border-[#E3DBD8]">
+                      <div className="single-card flex justify-between w-[447.04px] h-[206.49px] rounded-[14.19px] pl-[14.19px] pr-[28.38px] border-[1px] border-[#E3DBD8] hover:scale-[1.05] duration-[0.3s]">
                             <div className="img">
                                 {image}
                             </div>

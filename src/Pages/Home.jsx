@@ -5,6 +5,9 @@ import Travel from '../Components/Travel/Travel'
 import Destinations from '../Components/Destinations/Destinations'
 import Memories from '../Components/Memories/Memories'
 import Adventures from '../Components/Adventures/Adventures'
+import City from '../Components/City/City'
+import Offers from '../Components/Offers/Offers'
+import Coaching from '../Components/Coaching/Coaching'
 
 const Home = () => {
   return (
@@ -15,6 +18,9 @@ const Home = () => {
         <Destinations/>
         <Memories/>
         <Adventures/>
+        <City/>
+        <Offers/>
+        <Coaching/>
     </div>
   )
 }
