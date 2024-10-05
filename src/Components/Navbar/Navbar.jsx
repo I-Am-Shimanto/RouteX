@@ -15,13 +15,13 @@ const Navbar = () => {
                     </div>
                     <div className="nav_links">
                         <ul className='flex gap-[17.03px]'>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>Home<IoIosArrowDown/> </Link></li>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>About Us<IoIosArrowDown/> </Link></li>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>Services<IoIosArrowDown/> </Link></li>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>Projects<IoIosArrowDown/> </Link></li>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>Blog<IoIosArrowDown/> </Link></li>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>Page<IoIosArrowDown/> </Link></li>
-                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px]'>Contact<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>Home<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>About Us<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>Services<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>Projects<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>Blog<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>Page<IoIosArrowDown/> </Link></li>
+                            <li><Link className='flex items-center gap-[3.5px] text-[10px] font-bold font-jakarta text-brand-color leading-[18.4px] hover:scale-[1.3] duration-[0.3s]'>Contact<IoIosArrowDown/> </Link></li>
                         </ul>
                     </div>
                     <div className="nav-btn">
