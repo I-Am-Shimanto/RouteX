@@ -8,6 +8,7 @@ import Adventures from '../Components/Adventures/Adventures'
 import City from '../Components/City/City'
 import Offers from '../Components/Offers/Offers'
 import Coaching from '../Components/Coaching/Coaching'
+import Exploring from '../Components/Exploring/Exploring'
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
         <City/>
         <Offers/>
         <Coaching/>
+        <Exploring/>
     </div>
   )
 }

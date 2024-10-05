@@ -7,7 +7,7 @@ import { FaArrowRight } from "react-icons/fa";
 const Coaching = () => {
   return (
     <>
-        <section >
+        <section className='pb-[85.14px]'>
             <div className="container">
                 <div className="row">
                     <div className="text flex justify-between px-[260.27px] flex-col ">

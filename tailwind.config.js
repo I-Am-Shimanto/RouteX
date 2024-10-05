@@ -13,6 +13,9 @@ export default {
       },
       fontFamily: {
         'jakarta' : ["Plus Jakarta Sans", 'sans-serif']
+      },
+      backgroundImage:{
+        'exploring': "url('image/FaJoint.png')",
       }
     },
     container:{

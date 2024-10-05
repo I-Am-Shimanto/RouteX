@@ -1,0 +1,16 @@
+.exploring .row{
+    background-image: url(images/Join.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+}
+.exploring .img{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtErl42ZdWWRy8WI4XLWZYwWZ_D3MoeY0GtA&s);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 290px;
+    height: 319px;
+    border-radius: 20px;
+}
