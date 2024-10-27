@@ -67,7 +67,7 @@ const Exploring = () => {
             </div>
         </section>
     </>
-  )
+    )
 }
 
 export default Exploring

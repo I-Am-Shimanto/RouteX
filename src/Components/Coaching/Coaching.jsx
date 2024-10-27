@@ -18,7 +18,7 @@ const Coaching = () => {
                             <h2 className='w-[447.04px] text-[35.48px] font-bold font-jakarta text-brand-color leading-[42.6px] pt-[7.1px] pb-[41.73px]'>A Tapestry of Experiences Cultural Encounters </h2>
                     </div>
                     <div className="card flex justify-center gap-[21.29px]">
-                        <div className="single-card w-[290.93px] ">
+                        <div className="single-card w-[290.93px]">
                             <img className='rounded-[14.19px] h-[229px] w-[290.93px]' src="https://www.britannicaoverseas.com/uploads/exams/toefl-coaching-in-gurgaon-1536x1025_1693208224.jpg" alt="card" />
                             <div className="mini-card px-[28.38px] py-[21.29px] bg-second-color rounded-[14.19px] mt-4 flex justify-between items-center hover:scale-[1.05] duration-[0.3s] ">
                                 <div>
