@@ -9,6 +9,7 @@ import City from '../Components/City/City'
 import Offers from '../Components/Offers/Offers'
 import Coaching from '../Components/Coaching/Coaching'
 import Exploring from '../Components/Exploring/Exploring'
+import Albert from '../Components/Albert/Albert'
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
         <Offers/>
         <Coaching/>
         <Exploring/>
+        <Albert/>
     </div>
   )
 }
